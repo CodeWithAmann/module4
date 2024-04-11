@@ -1,0 +1,35 @@
+1.Ans:-
+A programming language is a formal language comprising a set of instructions that produce various kinds of output. These instructions are used to create software, scripts, or other sets of instructions for computers to execute.
+
+2.Ans:-
+Programming languages are necessary for communicating instructions to a computer. They allow humans to write code that the computer can understand and execute to perform tasks, such as software development, web development, data analysis, and more.
+
+3.Ans:-
+Some key features of Java include:
+
+Object-oriented: Java is based on the object-oriented programming paradigm.
+Platform independence: Java code can run on any device or platform that has a Java Virtual Machine (JVM) installed.
+Robust and secure: Java has built-in features for error handling and security.
+Multithreading: Java supports concurrent execution of multiple threads, allowing for efficient multitasking.
+Rich API: Java provides a vast library of pre-built classes and methods for various tasks.
+Automatic memory management: Java manages memory allocation and deallocation automatically through its garbage collection mechanism.
+
+4.Ans:-
+In Java, an object is a fundamental unit of Object-Oriented Programming (OOP). It is an instance of a class and represents a real-world entity with attributes (fields) and behaviors (methods).
+
+5.Ans:-
+A class in Java is a blueprint or template for creating objects. It defines the attributes (fields) and behaviors (methods) that objects of that type will have.
+
+6.Ans:-
+In Java, the main() method is the entry point of a Java program. It is the method that the Java Virtual Machine (JVM) looks for when starting the execution of a program. The main() method must be declared as:
+
+java
+Copy code
+public static void main(String[] args) {
+    // Code to be executed
+}
+public: Access modifier, making the method accessible from outside the class.
+static: Indicates that the method belongs to the class itself, not to any specific instance of the class.
+void: Return type, indicating that the method does not return any value.
+main: Method name, which is standard and recognized by the JVM.
+String[] args: Parameter that allows command-line arguments to be passed to the program.
